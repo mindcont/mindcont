@@ -8,7 +8,7 @@
      
 <p> Our vision is to build a smart home center based on raspberry pie. Its feature is not to repeatedly manufacture wheels, but to integrate existing open source solutions and provide a low-cost, transparent and practical overall solution. </p> 
 
-<a href="http://wio.me" target="_blank" title="Wio.ME."  target="_black">© 2024 Wio.me.</a> Part of Ape Industries.
+<a href="http://wio.me" target="_blank" title="Wio.ME."  target="_black">© 2025 Wio.me.</a> Part of Ape Industries.
 
 
 
